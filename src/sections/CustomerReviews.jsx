@@ -5,7 +5,7 @@ const CustomerReviews = () => {
     return (
         <section className="max-container">
             <h3 className="font-palanquin text-center text-4xl font-bold">
-                What Our <span className="text-coral-red">Customer</span> Say?
+                What Our <span className="text-light-blue">Customer</span> Say?
             </h3>
             <p className="info-text text-center font-montserrat m-auto mt-4 max-w-lg">
                 Hear genuine stories from our satisfied customers about their exceptional experiences with us.
